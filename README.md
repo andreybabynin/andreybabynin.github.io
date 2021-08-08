@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 
 [Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<a href="" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+ </a>
