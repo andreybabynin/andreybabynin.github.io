@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <a href="" target="_blank"> 
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  </a> 
-  &emsp; 
-     
+  &emsp;  
 </p>
+
+## 🤝 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ababynin/)
     
