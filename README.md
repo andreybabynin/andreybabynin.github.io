@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 ## 🛠️ My Skills
 
-[Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<p align="left"> 
+  &emsp; 
 <a href="" target="_blank"> 
      <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  </a>
+ &emsp;
+<a href="" target="_blank"> 
+     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ </a> 
+  &emsp; 
+     
+</p>
+    
