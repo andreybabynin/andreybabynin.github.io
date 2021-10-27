@@ -1,4 +1,4 @@
-### Hi, I'm Andrey  👋
+## Hi, I'm Andrey  👋
 
 <!--
 **andreybabynin/andreybabynin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 <p align="left"> 
   
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
  
 </p>
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ababynin/)
     
