@@ -17,17 +17,21 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 
 <p align="left"> 
-  &emsp; 
+  
 <a href="" target="_blank"> 
-     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge">
  </a>
- &emsp;
+ 
 <a href="" target="_blank"> 
-     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-14354C?style=for-the-badge">
  </a> 
-  &emsp;  
+  
+ <a href="" target="_blank"> 
+     <img alt="C++" src="https://img.shields.io/badge/C++-14354C?style=for-the-badge">
+ </a> 
+ 
 </p>
 
 ## 🤝 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ababynin/)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ababynin/)
     
