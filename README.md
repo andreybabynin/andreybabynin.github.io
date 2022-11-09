@@ -7,12 +7,10 @@ I'm DS and a great enthusiast of building ml-projects on top of parsed data.
 My prime interest is the study of capital markets with ML tools. 
 I try to extract meaning from noise in an visually appealing way:
 
-P.S.: May not work after November 28 until I transfer them from heroku to another server.
-
 1. Network Graph for mentioned stocks [network-graph](https://network.tradingloop.ru/) -> [Git](https://github.com/andreybabynin/flask-d3-network-dash)
 2. Telegram bot for semantic analytics (@not_alert_bot) -> [Git](https://github.com/andreybabynin/sentiment-bot-pulse)
 
-<span style="color: red"> P.S.: May not work after November 28 until I transfer them from heroku to another server. </span>
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) P.S.: May not work after November 28 until I transfer them from heroku to another server.
 
 and way more to come ...
 
